@@ -1,0 +1,25 @@
+
+.btn {
+    margin-left: 10px;
+}
+
+h1 {
+    margin-bottom: 30px;
+
+}
+
+.row {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.cartitemsheader {
+    font-weight: 600;
+    margin-top: 25px;
+    font-size: 20px;
+}
+.cartitem{
+    font-weight:600;
+    list-style: none;
+}
